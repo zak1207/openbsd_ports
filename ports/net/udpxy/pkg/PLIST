@@ -1,0 +1,5 @@
+@comment $OpenBSD$
+bin/udpxrec
+@bin bin/udpxy
+@man man/man1/udpxy.1
+@man man/man1/udpxrec.1

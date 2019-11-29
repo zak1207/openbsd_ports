@@ -1,0 +1,2 @@
+#!/bin/sh
+exec  /usr/bin/cc -B /usr/ports/pobj/udpxy-1.0.24.1/bin "$@"

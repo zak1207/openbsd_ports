@@ -1,0 +1,46 @@
+Below is an rc.d(8) script template containing all usable variables and
+functions set to their defaults.
+See rc.subr(8) for more information.
+
+-----------------------------------8<-----------------------------------
+#!/bin/ksh
+#
+# $OpenBSD: rc.template,v 1.12 2018/01/11 19:30:18 rpe Exp $
+
+daemon="${TRUEPREFIX}/bin/foobar"
+#daemon_flags=
+#daemon_rtable=0
+#daemon_timeout="30"
+#daemon_user="root"
+
+. /etc/rc.d/rc.subr
+
+#pexp="${daemon}${daemon_flags:+ ${daemon_flags}}"
+#rc_bg= # (undefined)
+#rc_reload= # (undefined)
+#rc_usercheck=YES
+
+#rc_pre() {
+#}
+
+#rc_start() {
+#	${rcexec} "${daemon} ${daemon_flags}"
+#}
+
+#rc_check() {
+#	pgrep -T "${daemon_rtable}" -q -xf "${pexp}"
+#}
+
+#rc_reload() {
+#	pkill -HUP -T "${daemon_rtable}" -xf "${pexp}"
+#}
+
+#rc_stop() {
+#	pkill -T "${daemon_rtable}" -xf "${pexp}"
+#}
+
+#rc_post() {
+#}
+
+rc_cmd $1
+-----------------------------------8<-----------------------------------

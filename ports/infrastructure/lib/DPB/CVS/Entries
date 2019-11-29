@@ -1,0 +1,39 @@
+/AffinityStub.pm/1.1/Sun Oct 13 18:23:35 2013//
+D/Core////
+D/Heuristics////
+D/Job////
+D/PortBuilder////
+D/Reporter////
+D/SubEngine////
+/BasePkgPath.pm/1.6/Wed Jun 24 05:34:23 2015//
+/ErrorList.pm/1.4/Wed Jun 24 05:34:23 2015//
+/Limiter.pm/1.7/Wed Jun 24 05:34:23 2015//
+/Grabber.pm/1.37/Sun May 22 12:35:15 2016//
+/Heuristics.pm/1.32/Sun May 14 16:10:41 2017//
+/Logger.pm/1.25/Tue Jun 20 18:03:04 2017//
+/Util.pm/1.7/Tue Jun 20 18:03:04 2017//
+/Affinity.pm/1.19/Fri Nov 24 15:41:50 2017//
+/Signature.pm/1.10/Fri Nov 24 15:41:50 2017//
+/Fetch.pm/1.80/Mon Jul 16 22:57:43 2018//
+/PortInfo.pm/1.38/Mon Jul 16 22:57:43 2018//
+/Reporter.pm/1.30/Wed May  8 23:14:26 2019//
+/Distfile.pm/1.17/Sun May 12 03:08:14 2019//
+/PkgPath.pm/1.55/Sun May 12 03:08:14 2019//
+/Engine.pm/1.128/Mon May 13 18:42:04 2019//
+/PortBuilder.pm/1.85/Mon May 13 18:42:04 2019//
+/SubEngine.pm/1.28/Mon May 13 18:42:04 2019//
+/Vars.pm/1.54/Mon May 13 18:42:04 2019//
+/Locks.pm/1.52/Mon Jul  1 14:04:54 2019//
+/External.pm/1.22/Thu Jul  4 02:52:33 2019//
+/Config.pm/1.83/Mon Sep  2 13:41:36 2019//
+/MiniCurses.pm/1.15/Mon Sep  2 13:41:36 2019//
+/State.pm/1.27/Mon Sep  2 13:41:36 2019//
+/Clock.pm/1.15/Sat Sep 28 13:12:45 2019//
+/Core.pm/1.99/Sat Sep 28 13:12:45 2019//
+/Serialize.pm/1.3/Sat Sep 28 13:12:45 2019//
+/Trace.pm/1.6/Sun Sep 29 15:03:08 2019//
+/User.pm/1.25/Sat Oct  5 16:38:05 2019//
+/Host.pm/1.15/Mon Oct  7 05:32:00 2019//
+/HostProperties.pm/1.17/Mon Oct  7 05:32:00 2019//
+/Job.pm/1.18/Mon Oct  7 05:32:00 2019//
+/Shell.pm/1.19/Mon Oct  7 05:32:00 2019//
